@@ -53,8 +53,10 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Express.js",
+  "Postgres",
+  "C#",
+  "ASP.NET",
+  "Microsoft Sql Server",
+  "Material UI"
 ];
