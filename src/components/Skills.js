@@ -12,9 +12,15 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+            My passion for software engineering
+            stems the joy I get in solving problems,
+            being creative, and learning new things.
+            After working in Content Moderation at Yelp,
+            and completing a software engineering apprenticeship at Techtonica,
+            I am currently working at Stack Overflow supporting
+            2 teams as a Contract Developer. On my own time, I enjoy
+            gaming, learning new languages and frameworks, and 
+            building apps for practice.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
