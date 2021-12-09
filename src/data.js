@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Got It!",
+    subtitle: "PERN Stack, Bootstrap",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Got It! is the recurring checklist for anyone who loves to prep and plan on the daily, weekly, or monthly basis! With shareable lists, Got It was made with families, friends, and collectives in mind.",
+    image: "./got-it.gif",
+    link: "https://got-it-app.herokuapp.com/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Guess That Number Game",
+    subtitle: "HTML, CSS, and Bootstrap",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "With this game, one can practice binary search. Built to be accessible to those with visual or physical impairments and/or dyslexia.",
+    image: "./guess-that-number.gif",
+    link: "https://m3ia.github.io/game-project/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Recipe Page",
+    subtitle: "HTML, CSS, Bootstrap",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "For 100 Days of Code, I created a static page to demonstrate responsiveness using Bootstrap while also sharing my favorite dessert recipe: Kulfi!",
+    image: "./recipe-page.gif",
+    link: "https://twitter.com/meiasgotmoxie/status/1355642707234807810?s=20",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Pill Pal",
+    subtitle: "Node, JS, Jquery",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Pill Pal is a medication tracker with an encouragement feature and text alerts. This was a group project for AthenaHacks 2021.",
+    image: "./pill-pal.gif",
+    link: "https://github.com/m3ia/Med-tracker-1",
   },
 ];
 
