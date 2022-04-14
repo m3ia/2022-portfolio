@@ -52,8 +52,8 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-soft-red tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-dark-grayish-yellow leading-relaxed" href="mailto:meianatividad@gmail.com" target="_blank">
-                Gmail
+              <a className="text-dark-grayish-yellow leading-relaxed" href="mailto:meianatividad@me.com" target="_blank">
+                Personal
               </a>
               <h2 className="title-font font-semibold text-soft-red tracking-widest text-xs mt-4">
                 LINKEDIN
